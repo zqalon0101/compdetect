@@ -1,0 +1,13 @@
+{
+	"serv_ip":"127.0.0.1",
+	"udp_source_port":"9876",
+	"udp_dest_port":"8765",
+	"tcp_headsyn_port":"9999",
+	"tcp_tailsyn_port":"8888",
+	"tcp_pre_port":"7777",
+	"tcp_post_port":"6666",
+	"udp_payload_size":"1000B",
+	"inter_meas_time":"15 seconds",
+	"num_udp_packets":"6000",
+	"udp_ttl":"255"
+}
